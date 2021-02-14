@@ -1,4 +1,4 @@
 # /bin/sh
 
-cd /home/pi/word_clock_max7219
-sudo python3 clock.py --cascade=2
+cd /home/pi/word_clock_ws2812b
+sudo python3 clock.py -c
